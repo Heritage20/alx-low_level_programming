@@ -1,1 +1,1 @@
-Some text goes here
+Uninteresting C language
